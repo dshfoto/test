@@ -1,2 +1,3 @@
 This is a first chapter of a text file added locally and then we want to get a copy on github.
 This line is an edit on github.  Let's see if we can get it on local box.
+This line is an edit on the local box.  Let's see if we can get it on the github.
