@@ -1,0 +1,26 @@
+https://help.github.com/articles/importing-a-git-repository-using-the-command-line/
+
+For initial clone of a repository on github to the local machine in to the gitwork directory:
+cd gitwork
+
+git clone --bare https://github.com/dshfoto/nyc-drupal-8-study-group-b
+
+# for more information on using the command line:
+https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line
+
+
+https://fatmin.com/2014/11/30/getting-started-with-git-and-github-on-fedora/
+
+On the Linux box terminal perform our first pull. First, create a directory that will house your cloned repo. For this purpose we have created ~github/dshesq/test. Now navigate to that directory and run the command below to pull initialize your local repo and pull down your code.
+
+    #git init && git pull https://github.com/dshfoto/test.git
+
+After changing a file on the local box: 
+    git add/rm  . . .to update what will be committed, 
+    git commit  . . . 
+    git push origin master  . . .  to move the file up to the github web UI
+    
+To pull the latest changes down to the local box:
+    git pull https://github.com/dshfoto/test.git master
+    
+
