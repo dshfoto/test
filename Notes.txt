@@ -17,7 +17,7 @@ On the Linux box terminal perform our first pull. First, create a directory that
 
 After changing a file on the local box: 
     git add/rm  . . .to update what will be committed, 
-    git commit  . . . 
+    git commit  . . .  To get out of the editor "Esc" then ":" then "x" [esentially you are in a vi editor]
     git push origin master  . . .  to move the file up to the github web UI
     
 To pull the latest changes down to the local box:
