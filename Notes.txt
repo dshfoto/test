@@ -23,4 +23,9 @@ After changing a file on the local box:
 To pull the latest changes down to the local box:
     git pull https://github.com/dshfoto/test.git master
     
+BRANCHING with command line:
+Starting on github web clone a new branch.
+Create BranchTest1
+Next see if it appears on local with:
+
 
